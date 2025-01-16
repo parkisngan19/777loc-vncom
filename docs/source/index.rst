@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+777Loc - Sân chơi slot game uy tín tại Đông Nam Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`777Loc <https://777loc-vn.com/>`_ là một trong những sân chơi slot game uy tín hàng đầu tại Đông Nam Á, hoạt động hợp pháp dưới sự cấp phép của PAGCOR, Philippines. Với kho game đa dạng, từ thể thao, casino, slot games đến bắn cá, 777Loc mang đến cho người chơi những trải nghiệm tuyệt vời cùng tỷ lệ thưởng cao và giao dịch nhanh chóng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+777Loc còn cung cấp nhiều chương trình khuyến mãi hấp dẫn như tặng thưởng 100% cho thành viên mới, hoa hồng giới thiệu bạn bè, và ưu đãi VIP. 777Loc cam kết bảo mật cao và hỗ trợ khách hàng 24/7, đảm bảo an toàn và sự hài lòng cho người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 460 Đường số 7, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0989886544. 
 
-.. toctree::
+Email: info@777loc-vn.com. 
 
-   usage
-   api
+Website: https://777loc-vn.com/ 
+
+#777loc #trangchu777loc #dangky777loc #dangnhap777loc #link777loc
